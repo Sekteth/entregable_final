@@ -1,0 +1,54 @@
+/* Estilos para el cuerpo del sitio */
+body {
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+/* Estilos para títulos y textos */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+p {
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+/* Estilos para la barra de navegación */
+.navbar {
+    background-color: black;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: white;
+    margin: 0 15px;
+}
+
+.navbar a:hover {
+    color: purple;
+}
+
+/* Estilos para el footer */
+.footer {
+    background-color: black;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer a {
+    text-decoration: none;
+    color: white;
+    margin: 0 15px;
+}
+
+.footer a:hover {
+    color: purple;
+}
+
